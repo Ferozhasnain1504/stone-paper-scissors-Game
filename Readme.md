@@ -10,9 +10,14 @@ A simple and interactive Stone, Paper, Scissors game built using **HTML**, **CSS
 - Smooth button animations and transitions
 
 ## 📸 Demo
-
+<!--
 ![Start Screen](screenshots/home%20page.png)
-![Gameplay Screen](screenshots/game.png) <!-- Replace with your actual screenshot if available -->
+![Gameplay Screen](screenshots/game.png)
+-->
+<p align="center">
+  <img src="screenshots/home%20page.png" width="45%" />
+  <img src="screenshots/game.png" width="45%" />
+</p>
 
 ## 🚀 Live Preview
 
