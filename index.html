@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Website</title>
+    <link rel="stylesheet" href="style.css"> 
+</head>
+<body>
+    <!-- <h1 id="welcome-msg">WELCOME </h1> -->
+
+    <h1>Rock - Paper - Scissors</h1>
+    <div class="game-container">
+        <div class="container">
+            <button class="rock" onclick="playGame('rock')">🪨</button>
+            <button class="paper" onclick="playGame('paper')">📃</button>
+            <button class="scissors" onclick="playGame('scissors')">✂️</button>
+        </div>
+    
+        <div class="stats-container">
+            <div id="playerDisplay">PLAYER : </div>
+            <div id="computerDisplay">COMPUTER : </div>
+            <div id="resultDisplay"></div>
+        </div>
+
+        <div class="scoreDisplay">Player Score : 
+            <span id="playerScoreDisplay">0</span>
+        </div>
+
+        <div class="scoreDisplay">Computer Score : 
+            <span id="computerScoreDisplay">0</span>
+        </div>
+        
+    </div>
+    
+
+    <div class="start-container">
+        <button onclick="startGame()" id="start-button">Start Game</button>
+    </div>
+
+
+
+    <script src="script.js"></script>
+</body>
+</html>
+
