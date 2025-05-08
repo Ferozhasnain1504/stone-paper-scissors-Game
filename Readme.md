@@ -50,6 +50,7 @@ stone-paper-scissors/
 ├── style.css
 ├── script.js
 └── README.md
+```
 
 ## 📌 Game Rules
 - Stone beats Scissors
