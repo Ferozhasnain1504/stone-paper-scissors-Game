@@ -37,7 +37,7 @@ You can play it live here: [https://ferozhasnain1504.github.io/stone-paper-sciss
    git clone https://github.com/Ferozhasnain1504/stone-paper-scissors-Game.git
 2. Navigate into the project directory:
    ```bash
-   cd stone-paper-scissors
+   cd stone-paper-scissors-Game
 3. Open index.html in your browser.
 
 ## 📁 Folder Structure
