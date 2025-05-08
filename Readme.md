@@ -42,7 +42,7 @@ You can play it live here: [https://ferozhasnain1504.github.io/stone-paper-sciss
 
 ## 📁 Folder Structure
 ```bash
-stone-paper-scissors/
+stone-paper-scissors-Game/
 ├── screenshots
     ├──home page.png
     └──game.png
