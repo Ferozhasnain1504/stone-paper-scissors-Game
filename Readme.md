@@ -65,16 +65,10 @@ stone-paper-scissors-Game/
 ## 📄 License
 This project is licensed under the MIT License.
 
-## 🙌 Acknowledgements
-This project is inspired by the original UI of Facebook and is for educational/demo purposes only.
-
 ## 💡 Contributions Welcome!
 Feel free to fork this repo, add improvements, and submit a pull request!
 
 Made with ❤️ by Feroz Hasnain
 ---
+Would you like a version with badges (e.g. GitHub repo size, last commit, etc.) or instructions to deploy on GitHub Pages?
 
-Let me know if you'd like:
-- A **GitHub Pages deployment guide**
-- A **Dark Mode toggle feature**
-- Or help creating a **more realistic newsfeed UI**
