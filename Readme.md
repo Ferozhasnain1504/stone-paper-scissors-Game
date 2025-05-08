@@ -41,7 +41,7 @@ You can play it live here: [https://ferozhasnain1504.github.io/stone-paper-sciss
 3. Open index.html in your browser.
 
 ## 📁 Folder Structure
-```bash
+
 stone-paper-scissors-Game/
 ├── screenshots
     ├──home page.png
@@ -50,7 +50,6 @@ stone-paper-scissors-Game/
 ├── style.css
 ├── script.js
 └── README.md
-```
 
 ## 📌 Game Rules
 - Stone beats Scissors
