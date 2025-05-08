@@ -11,12 +11,12 @@ A simple and interactive Stone, Paper, Scissors game built using **HTML**, **CSS
 
 ## 📸 Demo
 
-![Start Screen](screenshots/home%20page.png.png)
-![Gameplay Screen](screenshots/game.png.png) <!-- Replace with your actual screenshot if available -->
+![Start Screen](screenshots/home%20page.png)
+![Gameplay Screen](screenshots/game.png) <!-- Replace with your actual screenshot if available -->
 
 ## 🚀 Live Preview
 
-You can play it live here: [ https://ferozhasnain1504.github.io/stone-paper-scissors-Game/](#)  
+You can play it live here: [https://ferozhasnain1504.github.io/stone-paper-scissors-Game/](#)  
 <!-- Replace # with your GitHub Pages or Netlify/Vercel deployed link -->
 
 ## 🛠️ Tech Stack
