@@ -22,7 +22,7 @@ A simple and interactive Stone, Paper, Scissors game built using **HTML**, **CSS
 ## 🚀 Live Preview
 
 You can play it live here:
-👉[Play Now](https://ferozhasnain1504.github.io/facebook-clone/)  
+👉[Play Now](https://ferozhasnain1504.github.io/stone-paper-scissors-Game/)
 <!-- Replace # with your GitHub Pages or Netlify/Vercel deployed link -->
 
 ## 🛠️ Tech Stack
