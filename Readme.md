@@ -69,6 +69,3 @@ This project is licensed under the MIT License.
 Feel free to fork this repo, add improvements, and submit a pull request!
 
 Made with ❤️ by Feroz Hasnain
----
-Would you like a version with badges (e.g. GitHub repo size, last commit, etc.) or instructions to deploy on GitHub Pages?
-
